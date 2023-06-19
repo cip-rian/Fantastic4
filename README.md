@@ -1,4 +1,5 @@
 # Fantastic4 is 5 members global housing company 
+# We have been learning from https://github.com/eficode-academy/git-katas
 # multiplayer git
 Companion repo to [git-katas](ttps://github.com/eficode-academy/git-katas)
 
